@@ -14,8 +14,6 @@ public static void main (String[] args)
     for (int i = 1; i <= n; i++) {
         System.out.println(i * 9);
     }
-}
-}
 
 System.out.println("Pares menores de 100");
       for (int i = 2; i <= n; i=i+2) {
@@ -26,14 +24,19 @@ System.out.println("Pares menores de 100");
         System.out.println(i); 
       }
       System.out.println("Pares menores de 100 en descendente");
-      n=100;
-      for (int i = n; i >= 2; i=i-2) {
+      n=0;
+      for (int i = 98; i >= n; i=i-2) {
         System.out.println(i); 
       }
       System.out.println("Impares entre 18 y 50 en descendente");
-      n=50;
-      for (int i = n; i >= 18; i=i-3) {
+      n=11;
+      for (int i =49; i >=n; i=i -2) {
         System.out.println(i); 
-
+       }
     }
+ }
+
+
+
+
     
