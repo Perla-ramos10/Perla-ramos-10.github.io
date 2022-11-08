@@ -16,6 +16,14 @@ double num = 0;
 for (i = 1; i <= n; i=i+1){
 System.out.println(i);
 num += i;
+<<<<<<< HEAD
+=======
+}
+
+System.out.println("El promedio es: "+ num/n);
+}
+}
+>>>>>>> 8bee56122b7813a7b649700dc7a2db0fbbfd55c9
 }
 
 System.out.println("El promedio es: "+ num/n);

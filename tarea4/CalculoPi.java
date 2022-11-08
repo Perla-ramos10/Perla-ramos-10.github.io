@@ -42,3 +42,7 @@ class Iteracion{
 
     }
 }
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 8bee56122b7813a7b649700dc7a2db0fbbfd55c9
